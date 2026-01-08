@@ -255,7 +255,7 @@ This project is developed for educational and research purposes. The code is ava
 - **Google Earth Engine**: For providing the cloud-based platform
 - **ESA Copernicus Programme**: For Sentinel-2 satellite data
 - **QGIS**: For shapefile preparation and validation
-- **Sikkim University**: For academic support
+- **India Space Academy**: For academic support
 
 ## 📚 References
 
